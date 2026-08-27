@@ -1,0 +1,40 @@
+{
+    "activeFile": "work1.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "2.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "img.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "work1.json": {
+            "scale": 0.7414970930232558,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 687.7977065568949,
+                "y": 384.35754189944123
+            }
+        }
+    },
+    "last.imagePath": "D:/Projetos/EscritorioOnline/Nova pasta",
+    "map.height": 24,
+    "map.lastUsedFormat": "json",
+    "map.width": 43,
+    "openFiles": [
+        "work1.json",
+        "img.tsx",
+        "2.tsx"
+    ],
+    "project": "guild.tiled-project",
+    "recentFiles": [
+        "2.tsx",
+        "img.tsx",
+        "work1.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
